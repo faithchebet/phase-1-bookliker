@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", function() {});
     
     function likeBook(book) {
       const userId = 1; 
-      const username = 'pouros'; 
+      const username = 'chebet'; 
   
       
       const hasLiked = book.users.some(user => user.id === userId);
